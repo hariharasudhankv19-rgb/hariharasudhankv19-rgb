@@ -1,5 +1,4 @@
 Harihara Sudhan KV
-
 Student · Computer Science · AI
 
 I'm a Grade 11 IB student interested in Computer Science, Artificial Intelligence, and cybersecurity. I'm learning by experimenting, building projects, and exploring how technology can solve real-world problems.
