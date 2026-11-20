@@ -1,6 +1,14 @@
 Harihara Sudhan KV
 
 I'm a Grade 11 IB student interested in Computer Science, Artificial Intelligence, and cybersecurity. I'm learning by experimenting, building projects, and exploring how technology can solve real-world problems.
+
+## Areas I'm Exploring
+
+- Artificial Intelligence & Machine Learning
+- Computer Science & Software Development
+- Cybersecurity
+- Python and problem-solving
+- Building practical technology projects
 <!--
 **hariharasudhankv19-rgb/hariharasudhankv19-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
