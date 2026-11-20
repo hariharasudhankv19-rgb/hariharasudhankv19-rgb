@@ -1,5 +1,7 @@
-## Hi there 👋
+Harihara Sudhan KV
+Student · Computer Science · AI
 
+I'm a Grade 11 IB student interested in Computer Science, Artificial Intelligence, and cybersecurity. I'm learning by experimenting, building projects, and exploring how technology can solve real-world problems.
 <!--
 **hariharasudhankv19-rgb/hariharasudhankv19-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
