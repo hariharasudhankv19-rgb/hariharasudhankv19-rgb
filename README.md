@@ -9,6 +9,11 @@ I'm a Grade 11 IB student interested in Computer Science, Artificial Intelligenc
 - Cybersecurity
 - Python and problem-solving
 - Building practical technology projects
+ ## Technologies & Tools
+
+- **Languages:** Python, HTML, JavaScript
+- **AI Tools:** ChatGPT, Claude
+- **Exploring:** AI testing, AI-assisted development
 <!--
 **hariharasudhankv19-rgb/hariharasudhankv19-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
